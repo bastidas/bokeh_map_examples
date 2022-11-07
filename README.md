@@ -9,14 +9,14 @@ Map examples using bokeh, custom downloaded map shape files, and data sources in
 
   * county_population.py creates a map of the population in each county
   It uses population data from https://www.kaggle.com/stevepalley/us-county-population/version/1, CO-EST2015-alldata.csv
-  [Click here to see county_population.html](https://bastidas.github.io/bokeh_map_examples/county_population.html)
+  [See county population live here.](https://bastidas.github.io/bokeh_map_examples/county_population.html)
 
   * world_hdi.py creates a map of the world human development index in each country
-  It uses population data from https://www.kaggle.com/undp/human-development, human_development.csv
+  It uses population data from https://www.kaggle.com/undp/human-development, human_development.csv. [See world hdi live here.](https://bastidas.github.io/bokeh_map_examples/world_hdi.html)
   
   * state_population.py creates a map of the population in each US state
   It uses population data from https://www.kaggle.com/stevepalley/us-county-population/version/1, CO-EST2015-alldata.csv
-  [Click here to see state_population.html](https://bastidas.github.io/bokeh_map_examples/state_population.html)
+  [See state population live here.](https://bastidas.github.io/bokeh_map_examples/state_population.html)
 
-  * get_map.py has tools for downloading custom shape data, loading custom map shape data ready for bokeh plotting, and other map making tools
+  * get_map.py has tools for downloading custom shape data, loading custom map shape data, preparing data for bokeh plotting, and other custom map making tools.
 
