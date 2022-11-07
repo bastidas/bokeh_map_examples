@@ -1,4 +1,5 @@
-# Bokeh Map Examples
+# [Bokeh Map Examples](https://bastidas.github.io/bokeh_map_examples/)
+
 
 Map examples using bokeh, custom downloaded map shape files, and data sources including population, pollution, and human development index.
 
